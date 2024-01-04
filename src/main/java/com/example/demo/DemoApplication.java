@@ -12,6 +12,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		log.info("....application started and executing......");
+		System.out.println("sysout");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
