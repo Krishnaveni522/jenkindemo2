@@ -13,7 +13,7 @@ class DemoApplicationTests {
 	
 
 	@Test
-	void contextLoads() {
+	Pvoid contextLoads() {
 		log.info("testing started............");
 		
 		assertEquals(true,true);
